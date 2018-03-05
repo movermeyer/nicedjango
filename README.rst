@@ -64,23 +64,23 @@ _`Examples`
    :target: https://travis-ci.org/katakumpo/nicedjango
 .. |Coveralls| image:: https://coveralls.io/repos/katakumpo/nicedjango/badge.png?branch=master
    :target: https://coveralls.io/r/katakumpo/nicedjango?branch=master
-.. |Downloads| image:: https://pypip.in/download/nicedjango/badge.svg
+.. |Downloads| image:: https://img.shields.io/pypi/dm/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Latest Version| image:: https://pypip.in/version/nicedjango/badge.svg
+.. |Latest Version| image:: https://img.shields.io/pypi/v/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Supported Python versions| image:: https://pypip.in/py_versions/nicedjango/badge.svg
+.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Supported Python implementations| image:: https://pypip.in/implementation/nicedjango/badge.svg
+.. |Supported Python implementations| image:: https://img.shields.io/pypi/implementation/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Development Status| image:: https://pypip.in/status/nicedjango/badge.svg
+.. |Development Status| image:: https://img.shields.io/pypi/status/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Wheel Status| image:: https://pypip.in/wheel/nicedjango/badge.svg
+.. |Wheel Status| image:: https://img.shields.io/pypi/wheel/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
 .. |Egg Status| image:: https://pypip.in/egg/nicedjango/badge.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |Download format| image:: https://pypip.in/format/nicedjango/badge.svg
+.. |Download format| image:: https://img.shields.io/pypi/format/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
-.. |License| image:: https://pypip.in/license/nicedjango/badge.svg
+.. |License| image:: https://img.shields.io/pypi/l/nicedjango.svg
    :target: https://pypi.python.org/pypi/nicedjango/
 .. |Documentation Status| image:: https://readthedocs.org/projects/nicedjango-py/badge/?version=latest
    :target: https://nicedjango-py.readthedocs.org/en/latest/
